@@ -1,0 +1,23 @@
+body {
+    
+    
+    background:"green";
+   
+    &::-webkit-scrollbar {
+      display: none;
+      }
+      .css-1w3w53j-MuiFormControl-root-MuiTextField-root .MuiOutlinedInput-notchedOutline {
+        border-color: #f5f5f5;
+        background: #f5f5f5;
+    }
+     .css-78trlr-MuiButtonBase-root-MuiIconButton-root {
+         z-index: 999999;
+     }
+     .css-tlc64q-MuiPaper-root-MuiDialog-paper {
+      border-radius: 15px;
+  }
+  .css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+    border-radius: 20px;
+  }
+  
+}
